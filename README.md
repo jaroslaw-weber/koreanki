@@ -14,21 +14,11 @@ It have a lot of functions but it is not modern and ux is not good.
 - can run in browser and be a desktop app (electron)
 
 # features
-- flexible cloud saves
 - basic flashcards system
 - responsive ui (to be usable on mobile)
-
-# todo
-- drag & drop .csv / .apkg import
-- better srs algorithm
-- statistics
-- media (with dropbox sync)
-- plugins
-- ready to use decks
-- better ux
-- better progress system
-- mock plugin system
-- Simple/advanced mode
+- sync with dropbox
+- downloading decks inside app
+- easy to use
 
 
 #### Build Setup
